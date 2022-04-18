@@ -1,0 +1,27 @@
+
+h3 {
+    margin-left: 10px;
+}
+
+.addIcon {
+    margin-bottom: -5px;
+}
+
+.addForm > input {
+    margin: 5px;
+    padding: 5px
+}
+
+.addButton {
+    padding: 5px 15px;
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.addButton:hover {
+    background-color: #008CBA;
+    color: white;
+}
